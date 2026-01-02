@@ -7,20 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/minatoxaliens" target="blank"><img src="https://img.shields.io/twitter/follow/minatoxaliens?logo=twitter&style=for-the-badge" alt="minatoxaliens" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++,C#,Js,HTML,CSS,and more powerfull language!**
+- 🌱 I’m a man who can code with  **C/C++,C#,Js,HTML,CSS,PHP,Assembley,React.js,Vue,js,Angular,and also i can write a bash scripts**
 
-- 📫 How to reach me **minatoxcidkagenou@gmail.com**
+- 📫 How to reach me **marouaneof7@gmail.com**
 
-- ⚡ Fun fact **if(ithink == True)return False;)**
+- ⚡ Fun fact **people change don't stay in the past**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/minatoxaliens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minatoxaliens" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marouane drioueche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouane drioueche" height="30" width="40" /></a>
 <a href="https://fb.com/kisora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kisora" height="30" width="40" /></a>
 <a href="https://instagram.com/cid_n3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cid_n3ll" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/unknowncid!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unknowncid!" height="30" width="40" /></a>
-<a href="https://discord.gg/minatoxcidkagenou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minatoxcidkagenou" height="30" width="40" /></a>
+
+<a href="https://discord.gg/minatoxcidkagenou1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minatoxcidkagenou1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
